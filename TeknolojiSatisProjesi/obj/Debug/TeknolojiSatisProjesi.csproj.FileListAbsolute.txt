@@ -1,0 +1,116 @@
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe.config
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.pdb
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.AssemblyReference.cache
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Form1.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Properties.Resources.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.GenerateResource.cache
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CoreCompileInputs.cache
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.pdb
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CopyComplete
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KullanicilariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.MusterileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KategorileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.UrunleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriGoruntule.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.AnaMenu.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SplashForm.resources
+C:\Users\emirf\OneDrive\Masaüstü\Ders\Veri Yapıları\Proje\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SatislariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.AssemblyReference.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.AnaMenu.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Form1.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KategorileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.MusterileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Properties.Resources.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SatislariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriGoruntule.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SplashForm.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.UrunleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.GenerateResource.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CoreCompileInputs.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.pdb
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe.config
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.pdb
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\MySql.Data.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Buffers.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Memory.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\MySql.Data.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Buffers.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Memory.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CopyComplete
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KampanyalariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesi\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Form2.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe.config
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\TeknolojiSatisProjesi.pdb
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\MySql.Data.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Buffers.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Memory.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\Google.Protobuf.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\MySql.Data.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Buffers.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Memory.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.AssemblyReference.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.AnaMenu.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Form1.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Form2.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KategorileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.KampanyalariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.MusterileriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.Properties.Resources.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SatislariYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriGoruntule.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SiparisleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.SplashForm.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.UrunleriYonet.resources
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.GenerateResource.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CoreCompileInputs.cache
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.csproj.CopyComplete
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.exe
+C:\Users\emirf\OneDrive\Masaüstü\TeknolojiSatisProjesiSON\TeknolojiSatisProjesi\obj\Debug\TeknolojiSatisProjesi.pdb
